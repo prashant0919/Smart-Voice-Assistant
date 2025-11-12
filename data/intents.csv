@@ -1,0 +1,10 @@
+intent,response
+greeting,Hello! How can I assist you today?
+goodbye,Goodbye! Have a great day ahead.
+thanks,You’re welcome! Glad to help.
+time,Let me check the time for you.
+date,Today’s date is special let me fetch it.
+weather,Let me check the weather for you.
+joke,Sure! Why did the computer show up at work late? It had a hard drive!
+open_browser,Opening your browser...
+play_music,Playing your favorite music now.

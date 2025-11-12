@@ -1,0 +1,8 @@
+openai
+openai-whisper
+sounddevice
+soundfile
+pyttsx3
+pandas
+streamlit
+scipy
